@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slave>
+    <name></name>
+    <description></description>
+    <remoteFS></remoteFS>
+    <numExecutors></numExecutors>
+    <mode></mode>
+    <retentionStrategy class="hudson.slaves.RetentionStrategy$Always" />
+    <launcher class="hudson.slaves.JNLPLauncher" />
+    <label></label>
+    <nodeProperties />
+    <userId></userId>
+</slave>
